@@ -1,3 +1,26 @@
 h1{
     color:blueviolet;
+    text-align: center;
+font-size: 36px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
+
+p{ 
+    color: rgb(56, 25, 85);
+    text-align: justify;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 12px;  
+}
+
+b{  
+color: rgb(0, 0, 255);
+font-size: medium;
+
+}   
+
+
+
+
+
