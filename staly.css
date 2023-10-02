@@ -1,4 +1,45 @@
-h1{
+/*header*/
+
+header{ 
+    background: linear-gradient(#c0c0c0,#f0f0f0);
+padding-top: 15px;
+}
+
+.cabecalho{
+    possition: relative;
+    width: 900px;
+    margin:0 auto;
+}
+
+#logo:hover{
+    transition: 1s;
+    transform: scale(1.1); 
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav a{ 
+     text-transform: uppercase;
+     color: aquamarine;
+     font-size: 30px;
+     text-decoration: none;
+}
+
+nav li{ 
+display: inline;
+margin-left: 15px;
+}
+nav a:hover{ 
+   transition: 0,2s;
+   color: antiquewhite;
+text-decoration: underline;
+
+
+.titulo-principal{
     color:blueviolet;
     text-align: center;
 font-size: 36px;
